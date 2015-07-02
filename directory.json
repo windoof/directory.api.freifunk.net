@@ -154,6 +154,7 @@
 	"siegen" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/siegen.json",
 	"straelen" : "http://freifunk.straelen.eu/freifunk_straelen.json",
 	"stuttgart" : "http://gw01.freifunk-stuttgart.de/FreifunkStuttgart-api.json",
+	"sprockhoevel" : "http://www.langewiesche.de/ff-spr-api.json",
 	"tressow" : "http://map.4830.org/mueritz/Tressow-api.json",
 	"trier" : "https://freifunktrier.github.io/ffapi.json",
 	"troisdorf" : "http://freifunk-troisdorf.de/ffapi.json",
